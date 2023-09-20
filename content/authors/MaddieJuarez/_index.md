@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Isaiah Bouromphongsa
+title: Maddie Juarez
 
 # Username (this should match the folder name)
 authors:
-  - IsaiahBouromphongsa
+  - MaddieJuarez
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,11 +20,11 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link:  https://github.com/IsaiahBouromphongsa
+    link: https://github.com/mjuarez4
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/isaiah-bouromphongsa-ab7aa2210/
+    link: https://www.linkedin.com/in/madisonjuarez-mpj/
 
 user_groups:
   - Undergraduate Students
