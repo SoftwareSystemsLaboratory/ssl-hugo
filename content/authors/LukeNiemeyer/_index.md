@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Oscar Yanek
+title: Luke Niemeyer
 
 # Username (this should match the folder name)
 authors:
-  - OscarYanek
+  - LukeNiemeyer
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,12 +20,11 @@ organizations:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/oyanek
+    link: https://github.com/LukeNiemeyer
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/oscar-yanek-0a665a157/
-
+    link: https://www.linkedin.com/in/luke-niemeyer2025/
 user_groups:
-  - Alumni
+  - Undergraduate Students
 ---
