@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alex Rose
+title: Karolina Ryzka
 
 # Username (this should match the folder name)
 authors:
-  - AlexRose
+  - KarolinaRyzka
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,14 +18,15 @@ organizations:
     url: 'https://luc.edu/'
 
 social:
-#   - icon: github
-#    icon_pack: fab
-#    link:  https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KarolinaRyzka
 
-#  - icon: linkedin
-#   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/karolina-ryzka-522365268/
 
 user_groups:
-  - Alumnus
+  - Undergraduate Students
+
 ---

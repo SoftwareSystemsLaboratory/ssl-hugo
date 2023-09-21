@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Isaiah Bouromphongsa
+title: Alexander Rose
 
 # Username (this should match the folder name)
 authors:
-  - IsaiahBouromphongsa
+  - AlexanderRose
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,14 +18,14 @@ organizations:
     url: 'https://luc.edu/'
 
 social:
-  - icon: github
-    icon_pack: fab
-    link:  https://github.com/IsaiahBouromphongsa
+#   - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/isaiah-bouromphongsa-ab7aa2210/
+    link: https://www.linkedin.com/in/alexander-c-rose/
 
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
